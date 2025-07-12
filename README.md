@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aya Kamal</h1>
+<h3 align="center">💻 Frontend Developer | 💡 Passionate about building beautiful UIs</h3>
 
-<!--
-**AyaKamalHassan/AyaKamalHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🎓 I'm a student at **Faculty of Computer Science and Artificial Intelligence**
+- 🌱 Currently learning **React.js, JavaScript, and UI/UX Design**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Git, Bootstrap**
+- 🧠 I enjoy **problem solving** and writing clean, efficient code
+- 🛠️ Programming Languages: **C++, Python,Java ,JavaScript,SQl**
+- 📫 Reach me at: **aya621617@example.com**  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aya-kamal-b19b022b0/) 
+- 🌟 Fun fact: I love turning ideas into real, interactive web experiences!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,github,vscode,figma,cpp,python" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaKamalHassan&show_icons=true&theme=radical" />
+</p>
