@@ -8,7 +8,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Git, Bootstrap**
 - 🧠 I enjoy **problem solving** and writing clean, efficient code
 - 🛠️ Programming Languages: **C++, Python,Java ,JavaScript,SQl**
-- 📫 Reach me at: **aya621617@example.com**  
+- 📫 Reach me at: **aya621617@gmail.com**  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aya-kamal-b19b022b0/) 
 - 🌟 Fun fact: I love turning ideas into real, interactive web experiences!
 
